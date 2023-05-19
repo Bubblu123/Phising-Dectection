@@ -1,7 +1,6 @@
 # Phishing URL Detection 
 ![Screenshot 2023-05-19 144942](https://github.com/Bubblu123/Phising-Dectection/assets/83575832/a4107832-1b72-48de-a30b-dab27e1896a3)
 
-![image](https://user-images.githubusercontent.com/79131292/144742785-d183f50a-52d6-4296-a43a-90a1ee3502d8.png)
 
 ## Table of Content
   * [Introduction](#introduction)
