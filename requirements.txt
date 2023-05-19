@@ -1,4 +1,4 @@
-# beautifu2.lsoup4==4.9.3
+beautifulsoup4==4.9.3
 Flask==2.0.2
 
 googlesearch_python==1.0.1
